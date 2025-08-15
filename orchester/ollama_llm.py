@@ -4,7 +4,7 @@ import requests
 from typing import List, Dict, Optional
 
 class OllamaLLM:
-    def __init__(self, model="mistral-small:latest", host="http://192.168.6.97:11434", mode: str = "auto"):
+    def __init__(self, model="mistral-small:latest", host="http://192.168.6.97:11500", mode: str = "auto"):
         self.model = model
         self.host = host.rstrip("/")
         self.mode = mode
@@ -48,6 +48,7 @@ class OllamaLLM:
     def choose_service(self, services: Dict[str, Dict], query: str) -> Optional[str]:
         """
         Просим LLM выбрать наиболее подходящий сервис.
+        Учитываем description, system_prompt и keywords.
         Возвращает имя сервиса или None.
         """
         if not services:
@@ -55,8 +56,9 @@ class OllamaLLM:
         description_lines = []
         for name, info in services.items():
             desc = info.get("description", "")
+            system = info.get("system_prompt", "")
             kws = info.get("request_format", {}).get("keywords", [])
-            description_lines.append(f"- {name}: {desc}. keywords: {', '.join(kws)}")
+            description_lines.append(f"- {name}:\n  Description: {desc}\n  System prompt: {system}\n  Keywords: {', '.join(kws)}")
         prompt = (
                 "Ты — помощник-оркестратор. Вот список доступных сервисов (имя: описание + ключевые слова):\n"
                 + "\n".join(description_lines)

@@ -1,0 +1,272 @@
+2025-08-13 10:30:08,347 [INFO] Use pytorch device_name: cpu
+2025-08-13 10:30:08,347 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:17:43,801 [INFO] Use pytorch device_name: cpu
+2025-08-13 11:17:43,802 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:17:48,019 [INFO] Таблица services готова
+2025-08-13 11:17:48,020 [INFO] Загружено 0 сервисов из БД
+2025-08-13 11:18:57,149 [INFO] Use pytorch device_name: cpu
+2025-08-13 11:18:57,150 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:19:02,556 [INFO] Таблица services готова
+2025-08-13 11:19:02,557 [INFO] Загружено 0 сервисов из БД
+2025-08-13 11:21:26,153 [INFO] Use pytorch device_name: cpu
+2025-08-13 11:21:26,154 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:21:31,116 [INFO] Таблица services готова
+2025-08-13 11:21:31,117 [INFO] Загружено 0 сервисов из БД
+2025-08-13 11:33:03,887 [INFO] Use pytorch device_name: cpu
+2025-08-13 11:33:03,887 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:33:08,678 [INFO] Таблица services готова
+2025-08-13 11:33:08,678 [INFO] Загружено 0 сервисов из БД
+2025-08-13 11:34:25,309 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:26,513 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:27,671 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:28,934 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:30,606 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:33,067 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:37,090 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:44,371 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:34:58,035 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:38:49,361 [INFO] Use pytorch device_name: cpu
+2025-08-13 11:38:49,361 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:38:54,428 [INFO] Таблица services готова
+2025-08-13 11:38:54,429 [INFO] Загружено 0 сервисов из БД
+2025-08-13 11:39:13,812 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 11:39:13,833 [INFO] Сервис сохранен в БД: '9ac2f2bb-7a29-4c12-b13a-cee1460af723'
+2025-08-13 11:47:32,872 [INFO] Use pytorch device_name: cpu
+2025-08-13 11:47:32,873 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 11:47:37,856 [INFO] Таблица services готова
+2025-08-13 11:47:37,857 [INFO] Загружено 1 сервисов из БД
+2025-08-13 13:43:39,284 [INFO] Use pytorch device_name: cpu
+2025-08-13 13:43:39,284 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 13:43:43,607 [INFO] Таблица services готова
+2025-08-13 13:45:28,116 [INFO] Use pytorch device_name: cpu
+2025-08-13 13:45:28,116 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 13:45:33,176 [INFO] Таблица services готова
+2025-08-13 15:14:52,003 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:14:52,004 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:14:56,481 [INFO] Таблица services готова
+2025-08-13 15:18:44,547 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:18:44,547 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:18:48,874 [INFO] Таблица services готова
+2025-08-13 15:18:48,875 [INFO] Загружено 0 сервисов из БД
+2025-08-13 15:19:48,891 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:19:48,891 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:19:53,905 [INFO] Таблица services готова
+2025-08-13 15:19:53,906 [INFO] Загружено 0 сервисов из БД
+2025-08-13 15:22:49,046 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:22:49,046 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:22:54,087 [INFO] Таблица services готова
+2025-08-13 15:22:54,088 [INFO] Загружено 0 сервисов из БД
+2025-08-13 15:24:46,461 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 15:24:46,468 [INFO] Сервис сохранен в БД: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723', https://search.ai.alexrusakov.ru/search)
+2025-08-13 15:26:20,362 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:26:20,363 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:26:25,451 [INFO] Таблица services готова
+2025-08-13 15:26:25,452 [INFO] Загружено 0 сервисов из БД
+2025-08-13 15:26:58,945 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-13 15:26:58,965 [INFO] Сервис сохранен в БД: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723', https://search.ai.alexrusakov.ru)
+2025-08-13 15:28:24,937 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:28:24,938 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:28:29,852 [INFO] Таблица services готова
+2025-08-13 15:28:29,853 [INFO] Загружено 1 сервисов из БД
+2025-08-13 15:32:21,674 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:32:21,675 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:32:26,971 [INFO] Таблица services готова
+2025-08-13 15:32:26,972 [INFO] Загружено 1 сервисов из БД
+2025-08-13 15:32:52,052 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:32:52,052 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:32:57,138 [INFO] Таблица services готова
+2025-08-13 15:32:57,138 [INFO] Загружено 1 сервисов из БД
+2025-08-13 15:37:17,864 [INFO] Use pytorch device_name: cpu
+2025-08-13 15:37:17,865 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-13 15:37:22,878 [INFO] Таблица services готова
+2025-08-13 15:37:22,879 [INFO] Загружено 1 сервисов из БД
+2025-08-14 10:17:52,997 [INFO] Use pytorch device_name: cpu
+2025-08-14 10:17:52,997 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 10:17:57,464 [INFO] Таблица services готова
+2025-08-14 10:17:57,466 [INFO] Загружено 1 сервисов из БД
+2025-08-14 11:43:47,423 [INFO] Обработка запроса: Привет! Расскажи, что ты умеешь?
+2025-08-14 11:43:51,885 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-14 11:56:13,332 [INFO] Обработка запроса: Привет! Расскажи, что ты умеешь?
+2025-08-14 11:56:17,801 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-14 11:57:03,220 [INFO] Use pytorch device_name: cpu
+2025-08-14 11:57:03,220 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 11:57:07,773 [INFO] Таблица services готова
+2025-08-14 11:57:07,774 [INFO] Загружено 1 сервисов из БД
+2025-08-14 11:57:40,167 [INFO] Обработка запроса: Привет! Расскажи, что ты умеешь?
+2025-08-14 11:57:46,460 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-14 12:25:05,080 [INFO] Use pytorch device_name: cpu
+2025-08-14 12:25:05,080 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 12:25:09,432 [INFO] Таблица services готова
+2025-08-14 12:25:09,432 [INFO] Загружено 1 сервисов из БД
+2025-08-14 12:25:09,842 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 'str' object has no attribute 'get'
+2025-08-14 12:31:07,814 [INFO] Use pytorch device_name: cpu
+2025-08-14 12:31:07,815 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 12:31:13,498 [INFO] Таблица services готова
+2025-08-14 12:31:13,499 [INFO] Загружено 1 сервисов из БД
+2025-08-14 12:31:13,930 [ERROR] Сервис https://search.ai.alexrusakov.ru вернул неожиданный формат: {'uuid' : '9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name' : 'Rusakov_xlsx_agent', 'description' : '\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt' : '\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format' : {'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint' : 'https://search.ai.alexrusakov.ru'}
+2025-08-14 12:33:29,122 [INFO] Use pytorch device_name: cpu
+2025-08-14 12:33:29,122 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 12:33:34,187 [INFO] Таблица services готова
+2025-08-14 12:33:34,189 [INFO] Загружено 1 сервисов из БД
+2025-08-14 12:33:34,489 [ERROR] Сервис https://search.ai.alexrusakov.ru вернул неожиданный формат: {'uuid' : '9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name' : 'Rusakov_xlsx_agent', 'description' : '\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt' : '\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format' : {'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint' : 'https://search.ai.alexrusakov.ru'}
+2025-08-14 12:40:26,659 [INFO] Use pytorch device_name: cpu
+2025-08-14 12:40:26,659 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 12:40:31,008 [INFO] Таблица services готова
+2025-08-14 12:40:31,008 [INFO] Загружено 1 сервисов из БД
+2025-08-14 12:40:31,481 [ERROR] Сервис https://search.ai.alexrusakov.ru вернул неожиданный формат: {'uuid' : '9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name' : 'Rusakov_xlsx_agent', 'description' : '\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt' : '\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format' : {'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint' : 'https://search.ai.alexrusakov.ru'}
+2025-08-14 12:55:38,981 [INFO] Use pytorch device_name: cpu
+2025-08-14 12:55:38,982 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 12:55:43,296 [INFO] Таблица services готова
+2025-08-14 12:55:43,297 [INFO] Загружено 1 сервисов из БД
+2025-08-14 12:55:43,600 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid' : '9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name' : 'Rusakov_xlsx_agent', 'description' : '\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt' : '\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format' : {'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint' : 'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:01:38,344 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 13:01:38,351 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:09:54,589 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:09:54,590 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:09:58,902 [INFO] Таблица services готова
+2025-08-14 13:09:58,903 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:09:59,362 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: "{'uuid' : '9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name' : 'Rusakov_xlsx_agent', 'description' : '\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt' : '\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format' : {'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint' : 'https://search.ai.alexrusakov.ru'}"
+2025-08-14 13:09:59,698 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: "{'uuid' : '9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name' : 'Rusakov_xlsx_agent', 'description' : '\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt' : '\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format' : {'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint' : 'https://search.ai.alexrusakov.ru'}"
+2025-08-14 13:13:56,536 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 13:13:56,537 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:14:49,394 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:14:49,395 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:14:54,296 [INFO] Таблица services готова
+2025-08-14 13:14:54,297 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:14:54,565 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt':'\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format':{'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:14:54,896 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'\u041f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 XLSX-\u0444\u0430\u0439\u043b\u0435', 'system_prompt':'\u0422\u044b \u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0445\u043e\u0434\u0438\u0442 \u0423\u0418\u0414 \u0438 \u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0443 \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.', 'request_format':{'keywords': ['\u043d\u0430\u0439\u0434\u0438', '\u043f\u043e\u0438\u0441\u043a', 'uid', '\u0443\u0438\u0434', '\u043d\u043e\u043c\u0435\u043d\u043a\u043b\u0430\u0442\u0443\u0440\u0430']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:16:09,658 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 13:16:09,659 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:18:31,535 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:18:31,535 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:18:35,899 [INFO] Таблица services готова
+2025-08-14 13:18:35,900 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:18:36,269 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 500 Server Error: Internal Server Error for url: https://search.ai.alexrusakov.ru/
+2025-08-14 13:18:36,543 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 500 Server Error: Internal Server Error for url: https://search.ai.alexrusakov.ru/
+2025-08-14 13:19:10,694 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 13:19:10,694 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:21:23,167 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 13:21:23,168 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:21:36,816 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:21:36,816 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:21:41,121 [INFO] Таблица services готова
+2025-08-14 13:21:41,122 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:21:41,554 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 'list' object has no attribute 'strip'
+2025-08-14 13:21:41,864 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 'list' object has no attribute 'strip'
+2025-08-14 13:22:00,542 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 13:22:00,544 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:22:18,975 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:22:18,975 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:22:23,848 [INFO] Таблица services готова
+2025-08-14 13:22:23,850 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:22:24,123 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'Поиск информации в XLSX-файле', 'system_prompt':'Ты агент, который находит УИД и номенклатуру по запросу пользователя.', 'request_format':{'keywords': ['найди', 'поиск', 'uid', 'уид', 'номенклатура']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:22:24,399 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'Поиск информации в XLSX-файле', 'system_prompt':'Ты агент, который находит УИД и номенклатуру по запросу пользователя.', 'request_format':{'keywords': ['найди', 'поиск', 'uid', 'уид', 'номенклатура']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:26:36,916 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:26:36,916 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:26:41,234 [INFO] Таблица services готова
+2025-08-14 13:26:41,234 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:26:41,613 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'Поиск информации в XLSX-файле', 'system_prompt':'Ты агент, который находит УИД и номенклатуру по запросу пользователя.', 'request_format':{'keywords': ['найди', 'поиск', 'uid', 'уид', 'номенклатура']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:26:41,995 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'Поиск информации в XLSX-файле', 'system_prompt':'Ты агент, который находит УИД и номенклатуру по запросу пользователя.', 'request_format':{'keywords': ['найди', 'поиск', 'uid', 'уид', 'номенклатура']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:30:35,753 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:30:35,754 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:30:41,034 [INFO] Таблица services готова
+2025-08-14 13:30:41,034 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:30:41,418 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'Поиск информации в XLSX-файле', 'system_prompt':'Ты агент, который находит УИД и номенклатуру по запросу пользователя.', 'request_format':{'keywords': ['найди', 'поиск', 'uid', 'уид', 'номенклатура']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:30:41,666 [INFO] Сервис https://search.ai.alexrusakov.ru вернул неожиданный тип: <class 'str'>, данные: {'uuid':'9ac2f2bb-7a29-4c12-b13a-cee1460af723', 'name':'Rusakov_xlsx_agent', 'description':'Поиск информации в XLSX-файле', 'system_prompt':'Ты агент, который находит УИД и номенклатуру по запросу пользователя.', 'request_format':{'keywords': ['найди', 'поиск', 'uid', 'уид', 'номенклатура']}, 'endpoint':'https://search.ai.alexrusakov.ru'}
+2025-08-14 13:32:43,933 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:32:43,933 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:32:49,044 [INFO] Таблица services готова
+2025-08-14 13:32:49,045 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:32:49,386 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-14 13:32:49,387 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:34:40,154 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:34:40,154 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:34:45,075 [INFO] Таблица services готова
+2025-08-14 13:34:45,076 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:34:45,416 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-14 13:34:45,418 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:43:40,565 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:43:40,565 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:43:45,030 [INFO] Таблица services готова
+2025-08-14 13:43:45,031 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:43:45,497 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-14 13:43:45,499 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:45:12,798 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:45:12,799 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:45:17,323 [INFO] Таблица services готова
+2025-08-14 13:45:17,324 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:45:17,663 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-14 13:45:17,664 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 13:45:56,114 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:45:56,114 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:46:36,227 [ERROR] Локальный поиск не инициализирован: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AC39D1B190>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 4e151f35-0f01-4019-8121-a8205527d8f5)')
+2025-08-14 13:46:36,229 [INFO] Таблица services готова
+2025-08-14 13:46:36,230 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:46:46,233 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: HTTPSConnectionPool(host='search.ai.alexrusakov.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AC39CFA010>, 'Connection to search.ai.alexrusakov.ru timed out. (connect timeout=10)'))
+2025-08-14 13:46:56,251 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: HTTPSConnectionPool(host='search.ai.alexrusakov.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AC39D00950>, 'Connection to search.ai.alexrusakov.ru timed out. (connect timeout=10)'))
+2025-08-14 13:47:01,541 [INFO] Use pytorch device_name: cpu
+2025-08-14 13:47:01,541 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 13:47:01,627 [ERROR] Локальный поиск не инициализирован: (MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /api/models/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/tree/main/additional_chat_templates?recursive=False&expand=False (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000124B73EB0D0>: Failed to resolve \'huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 8c3efae0-96ca-438b-af35-0b8f834f9051)')
+2025-08-14 13:47:01,628 [INFO] Таблица services готова
+2025-08-14 13:47:01,628 [INFO] Загружено 2 сервисов из БД
+2025-08-14 13:47:11,637 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: HTTPSConnectionPool(host='search.ai.alexrusakov.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000124B73D2750>, 'Connection to search.ai.alexrusakov.ru timed out. (connect timeout=10)'))
+2025-08-14 13:47:21,650 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: HTTPSConnectionPool(host='search.ai.alexrusakov.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000124B73CCE50>, 'Connection to search.ai.alexrusakov.ru timed out. (connect timeout=10)'))
+2025-08-14 14:02:31,615 [INFO] Use pytorch device_name: cpu
+2025-08-14 14:02:31,615 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 14:02:35,988 [INFO] Таблица services готова
+2025-08-14 14:02:35,989 [INFO] Загружено 2 сервисов из БД
+2025-08-14 14:02:36,335 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-14 14:02:36,337 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 14:03:41,780 [INFO] Обработка запроса: Найди мне УИД: Лист г/к 45-М1-ТВ1-ДК2 ГОСТ1577-93 Б-ПН-О-Ф4 16х2000х8000 ГОСТ19903-15
+2025-08-14 14:03:41,781 [INFO] Ключевое слово 'найди' → Rusakov_xlsx_agent
+2025-08-14 14:03:41,781 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-14 14:03:42,029 [ERROR] Ошибка HTTP-запроса к https://search.ai.alexrusakov.ru/makejob: 422 Client Error: Unprocessable Entity for url: https://search.ai.alexrusakov.ru/makejob
+2025-08-14 14:07:18,162 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 14:07:18,164 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 14:07:37,825 [INFO] Обработка запроса: Найди мне УИД: Лист г/к 45-М1-ТВ1-ДК2 ГОСТ1577-93 Б-ПН-О-Ф4 16х2000х8000 ГОСТ19903-15
+2025-08-14 14:07:37,826 [INFO] Ключевое слово 'найди' → Rusakov_xlsx_agent
+2025-08-14 14:07:37,826 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-14 14:07:38,161 [ERROR] Ошибка HTTP-запроса к https://search.ai.alexrusakov.ru/makejob: 422 Client Error: Unprocessable Entity for url: https://search.ai.alexrusakov.ru/makejob
+2025-08-14 14:16:34,114 [INFO] Use pytorch device_name: cpu
+2025-08-14 14:16:34,114 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-14 14:16:38,463 [INFO] Таблица services готова
+2025-08-14 14:16:38,464 [INFO] Загружено 2 сервисов из БД
+2025-08-14 14:16:38,853 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-14 14:16:38,854 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-14 14:16:51,796 [INFO] Обработка запроса: Найди мне УИД: Лист г/к 45-М1-ТВ1-ДК2 ГОСТ1577-93 Б-ПН-О-Ф4 16х2000х8000 ГОСТ19903-15
+2025-08-14 14:16:51,796 [INFO] Ключевое слово 'найди' → Rusakov_xlsx_agent
+2025-08-14 14:16:51,797 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-14 14:32:05,589 [INFO] Обработка запроса: Найди мне УИД: Лист г/к 45-М1-ТВ1-ДК2 ГОСТ1577-93 Б-ПН-О-Ф4 16х2000х8000 ГОСТ19903-15
+2025-08-14 14:32:05,590 [INFO] Ключевое слово 'найди' → Rusakov_xlsx_agent
+2025-08-14 14:32:05,590 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-14 15:19:02,805 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-08-14 15:19:02,807 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-15 13:22:05,481 [INFO] Use pytorch device_name: cpu
+2025-08-15 13:22:05,482 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-15 13:22:10,957 [INFO] Таблица services готова
+2025-08-15 13:22:10,958 [INFO] Загружено 2 сервисов из БД
+2025-08-15 13:22:11,393 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-15 13:22:11,395 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-15 13:22:37,534 [INFO] Обработка запроса: Кто ты?
+2025-08-15 13:22:40,882 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-15 13:23:02,473 [INFO] Обработка запроса: Найди мне УИД гипсокартона
+2025-08-15 13:23:02,474 [INFO] Ключевое слово 'найди' → Rusakov_xlsx_agent
+2025-08-15 13:23:02,474 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-15 13:23:51,262 [INFO] Обработка запроса: найди мне гостиницу в Ростове-на-Дону
+2025-08-15 13:23:51,262 [INFO] Ключевое слово 'найди' → Rusakov_xlsx_agent
+2025-08-15 13:23:51,263 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-15 13:24:18,727 [INFO] Обработка запроса: Какая сейчас погода в Москве?
+2025-08-15 13:24:19,322 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-15 13:43:01,611 [INFO] Обработка запроса: ты помнишь мои предыдущие вопросы к тебе?
+2025-08-15 13:43:04,974 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-15 15:06:16,375 [INFO] Обработка запроса: кто ты?
+2025-08-15 15:06:19,743 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-15 15:06:38,951 [INFO] Обработка запроса: Уид крана
+2025-08-15 15:06:38,953 [INFO] Ключевое слово 'уид' → Rusakov_xlsx_agent
+2025-08-15 15:06:38,954 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-08-15 15:13:07,174 [INFO] Use pytorch device_name: cpu
+2025-08-15 15:13:07,177 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-15 15:13:15,726 [INFO] Таблица services готова
+2025-08-15 15:13:15,728 [INFO] Загружено 2 сервисов из БД
+2025-08-15 15:13:16,205 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
+2025-08-15 15:13:16,210 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)

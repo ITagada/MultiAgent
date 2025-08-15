@@ -14,7 +14,7 @@ def register_service(service: ServiceRegistration):
 
 @app.get('/services')
 def list_services():
-    return {'services': orchestrator.list_services()}
+    return {'services': orchestrator.db.get_all()}
 
 @app.post("/ask")
 def ask(req: TaskRequest):

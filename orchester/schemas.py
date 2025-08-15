@@ -5,6 +5,7 @@ class TaskRequest(BaseModel):
     prompt: str
 
 class ServiceRegistration(BaseModel):
+    uuid: str
     name: str
     description: Optional[str] = ''
     system_prompt: Optional[str] = ''
