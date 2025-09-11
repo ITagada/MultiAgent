@@ -1,49 +1,47 @@
 import json
 import requests
 
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Union
 
 class OllamaLLM:
-    def __init__(self, model="mistral-small:latest", host="http://192.168.6.97:11500", mode: str = "auto"):
+    def __init__(self, model="qwen2.5:32b", host="http://192.168.6.97:11434"):
         self.model = model
         self.host = host.rstrip("/")
-        self.mode = mode
 
-    def run(self, prompt: str) -> str:
+    def run(self, query: Union[str, List[Dict[str, str]]]) -> str:
+        """
+        Универсальный вызов Ollama:
+        - query=str → /api/generate
+        - query=list(messages) → /api/chat
+        """
+        if isinstance(query, str):
+            url = f"{self.host}/api/generate"
+            payload = {'model': self.model, 'prompt': query, 'stream': False}
+        elif isinstance(query, list):
+            url = f"{self.host}/api/chat"
+            payload = {'model': self.model, 'messages': query, 'stream': False}
+        else:
+            raise ValueError("query должен быть str или список сообщений [{'role','content'}]")
+
         try:
-            url = f"{self.host}/v1/chat/completions"
-            payload = {
-                'model': self.model,
-                'messages': [{'role': 'user', 'content': prompt}],
-                'stream': False
-            }
-            r = requests.post(url, json=payload, timeout=30)
+            r = requests.post(url, json=payload, timeout=120)
             r.raise_for_status()
-            data = r.json()
-            return data['choices'][0]['message']['content']
-        except Exception:
             try:
-                url = f"{self.host}/api/generate"
-                payload = {
-                    'model': self.model,
-                    'prompt': prompt
-                }
-                r = requests.post(url, json=payload, timeout=60, stream=False)
-                r.raise_for_status()
-                try:
-                    data = r.json()
-                    if isinstance(data, dict):
-                        if 'choices' in data and data['choices']:
-                            c = data['choices'][0]
-                            if isinstance(c, dict) and 'message' in c:
-                                return c['message'].get('content', '')
-                        if 'response' in data:
-                            return data['response']
-                    return str(data)
-                except ValueError:
-                    return r.text
-            except Exception as e:
-                return f"[LLM error] {e}"
+                data = r.json()
+                if isinstance(data, dict):
+                    if 'response' in data:
+                        return data['response']
+                    if 'messages' in data and 'content' in data['message']:
+                        return data['messages']['content']
+                    if 'choices' in data and len(data['choices']) > 0:
+                        choice = data['choices'][0]
+                        if 'message' in choice and 'content' in choice['message']:
+                            return choice['message']['content']
+                return str(data)
+            except json.JSONDecodeError:
+                return r.text
+        except Exception as e:
+            return f"[LLM error] {e}"
 
     def choose_service(self, services: Dict[str, Dict], query: str) -> Optional[str]:
         """

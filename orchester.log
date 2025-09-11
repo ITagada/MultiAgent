@@ -270,3 +270,703 @@
 2025-08-15 15:13:15,728 [INFO] Загружено 2 сервисов из БД
 2025-08-15 15:13:16,205 [INFO] Обновление сервиса '9ac2f2bb-7a29-4c12-b13a-cee1460af723': name_changed=True ('Rusakov_xlsx_agent' → Rusakov_xlsx_agent), endpoint_changed=False (https://search.ai.alexrusakov.ru → https://search.ai.alexrusakov.ru)
 2025-08-15 15:13:16,210 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-08-27 09:26:24,427 [INFO] Use pytorch device_name: cpu
+2025-08-27 09:26:24,428 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-27 09:26:32,454 [INFO] Таблица services готова
+2025-08-27 09:26:32,455 [INFO] Загружено 2 сервисов из БД
+2025-08-27 09:26:32,896 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-27 09:26:33,149 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-28 13:25:31,010 [INFO] Use pytorch device_name: cpu
+2025-08-28 13:25:31,011 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-28 13:25:36,415 [INFO] Таблица services готова
+2025-08-28 13:25:36,416 [INFO] Загружено 2 сервисов из БД
+2025-08-28 13:25:36,752 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-28 13:25:37,040 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-29 09:17:44,955 [INFO] Use pytorch device_name: cpu
+2025-08-29 09:17:44,955 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-29 09:17:49,609 [INFO] Таблица services готова
+2025-08-29 09:17:49,610 [INFO] Загружено 2 сервисов из БД
+2025-08-29 09:17:50,019 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-29 09:17:50,278 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-29 12:16:33,505 [INFO] Сервис зарегистрирован: string (string)
+2025-08-29 12:16:33,520 [INFO] Сервис сохранен в БД: string (string, string)
+2025-08-29 12:22:34,907 [INFO] Обработка запроса: кто ты?
+2025-08-29 12:23:24,147 [INFO] Use pytorch device_name: cpu
+2025-08-29 12:23:24,148 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-29 12:26:36,555 [INFO] Таблица services готова
+2025-08-29 12:26:36,557 [INFO] Загружено 3 сервисов из БД
+2025-08-29 12:26:36,944 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-29 12:26:37,182 [ERROR] Ошибка загрузки сервиса https://search.ai.alexrusakov.ru: 502 Server Error: Bad Gateway for url: https://search.ai.alexrusakov.ru/
+2025-08-29 12:26:37,183 [ERROR] Ошибка загрузки сервиса string: Invalid URL 'string/': No scheme supplied. Perhaps you meant https://string/?
+2025-08-29 12:28:53,489 [INFO] Use pytorch device_name: cpu
+2025-08-29 12:28:53,489 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-29 12:29:55,904 [INFO] Таблица services готова
+2025-08-29 12:29:55,905 [INFO] Загружено 0 сервисов из БД
+2025-08-29 12:31:14,824 [INFO] Обработка запроса: кто ты?
+2025-08-29 12:31:14,826 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-08-29 14:47:47,195 [INFO] Обработка запроса: на что ты способен?
+2025-08-29 14:47:47,196 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-02 09:47:38,105 [INFO] Use pytorch device_name: cpu
+2025-09-02 09:47:38,105 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 09:47:44,532 [INFO] Таблица services готова
+2025-09-02 09:47:44,533 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:34:03,554 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:34:03,554 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:34:10,763 [INFO] Таблица services готова
+2025-09-02 10:34:10,763 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:34:16,168 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:34:16,168 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:34:23,223 [INFO] Таблица services готова
+2025-09-02 10:34:23,225 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:38:01,598 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:38:01,598 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:38:10,268 [INFO] Таблица services готова
+2025-09-02 10:38:10,268 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:39:13,586 [INFO] Обработка запроса: кто ты?
+2025-09-02 10:40:03,148 [INFO] Обработка запроса: кто ты?
+2025-09-02 10:46:26,253 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:46:26,254 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:46:33,556 [INFO] Таблица services готова
+2025-09-02 10:46:33,557 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:53:54,274 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:53:54,274 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:54:00,934 [INFO] Таблица services готова
+2025-09-02 10:54:00,935 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:54:17,189 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:54:17,190 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:54:26,708 [INFO] Таблица services готова
+2025-09-02 10:54:26,709 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:55:14,458 [INFO] Use pytorch device_name: cpu
+2025-09-02 10:55:14,458 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 10:55:20,997 [INFO] Таблица services готова
+2025-09-02 10:55:20,998 [INFO] Загружено 0 сервисов из БД
+2025-09-02 10:56:05,035 [INFO] Обработка запроса: кто ты?
+2025-09-02 11:00:17,039 [INFO] Use pytorch device_name: cpu
+2025-09-02 11:00:17,039 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 11:00:25,271 [INFO] Таблица services готова
+2025-09-02 11:00:25,273 [INFO] Загружено 0 сервисов из БД
+2025-09-02 11:20:17,644 [INFO] Use pytorch device_name: cpu
+2025-09-02 11:20:17,644 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 11:20:24,979 [INFO] Таблица services готова
+2025-09-02 11:20:24,980 [INFO] Загружено 0 сервисов из БД
+2025-09-02 11:20:41,354 [INFO] Use pytorch device_name: cpu
+2025-09-02 11:20:41,354 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 11:20:48,179 [INFO] Таблица services готова
+2025-09-02 11:20:48,181 [INFO] Загружено 0 сервисов из БД
+2025-09-02 11:20:59,291 [INFO] Use pytorch device_name: cpu
+2025-09-02 11:20:59,291 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 11:21:06,224 [INFO] Таблица services готова
+2025-09-02 11:21:06,225 [INFO] Загружено 0 сервисов из БД
+2025-09-02 11:26:27,140 [INFO] Use pytorch device_name: cpu
+2025-09-02 11:26:27,140 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-02 11:26:33,651 [INFO] Таблица services готова
+2025-09-02 11:26:33,651 [INFO] Загружено 0 сервисов из БД
+2025-09-02 11:28:05,335 [INFO] Обработка запроса: кто ты?
+2025-09-02 11:28:05,335 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-02 11:28:22,185 [INFO] Обработка запроса: кто ты?
+2025-09-02 11:28:22,186 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-02 11:33:06,699 [INFO] Обработка запроса: кто ты?
+2025-09-02 11:37:34,715 [INFO] Обработка запроса: кто ты?
+2025-09-02 11:37:34,716 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-02 11:38:00,022 [INFO] Обработка запроса: кто ты?
+2025-09-03 10:48:32,101 [INFO] Use pytorch device_name: cpu
+2025-09-03 10:48:32,101 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-03 10:48:38,755 [INFO] Таблица services готова
+2025-09-03 10:48:38,755 [INFO] Загружено 0 сервисов из БД
+2025-09-03 12:13:11,952 [INFO] Обработка запроса: string
+2025-09-03 12:13:11,954 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-03 12:13:42,013 [INFO] Обработка запроса: 234324
+2025-09-03 12:13:42,013 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-03 12:15:56,937 [INFO] Обработка запроса: 234324
+2025-09-03 12:16:35,218 [INFO] Обработка запроса: 234324
+2025-09-03 12:16:45,143 [INFO] Обработка запроса: string
+2025-09-03 12:16:45,143 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-03 12:16:57,673 [INFO] Обработка запроса: string
+2025-09-03 12:16:57,674 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-03 12:17:34,008 [INFO] Обработка запроса: кто ты?
+2025-09-03 12:17:34,009 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-03 12:17:50,219 [INFO] Обработка запроса: Кто ты?
+2025-09-03 13:23:46,815 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-09-03 13:23:46,836 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-09-04 09:16:40,675 [INFO] Сервис зарегистрирован: 'Rusakov_test_agent' ('2e161b76-4e66-416b-95be-366f7a893947')
+2025-09-04 09:16:40,697 [INFO] Сервис сохранен в БД: Rusakov_test_agent (2e161b76-4e66-416b-95be-366f7a893947, https://search.ai.alexrusakov.ru/test)
+2025-09-04 09:16:41,007 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-09-04 09:16:41,008 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-09-04 09:25:12,622 [INFO] Сервис зарегистрирован: 'Rusakov_test_agent' ('2e161b76-4e66-416b-95be-366f7a893947')
+2025-09-04 09:25:12,623 [INFO] Сервис сохранен в БД: Rusakov_test_agent (2e161b76-4e66-416b-95be-366f7a893947, https://search.ai.alexrusakov.ru/test)
+2025-09-04 09:26:56,085 [INFO] Сервис зарегистрирован: 'Rusakov_test_agent' ('2e161b76-4e66-416b-95be-366f7a893947')
+2025-09-04 09:26:56,105 [INFO] Сервис сохранен в БД: Rusakov_test_agent (2e161b76-4e66-416b-95be-366f7a893947, https://test.ai.alexrusakov.ru/)
+2025-09-04 09:29:00,189 [INFO] Сервис зарегистрирован: 'Rusakov_test_agent' ('2e161b76-4e66-416b-95be-366f7a893947')
+2025-09-04 09:29:00,190 [INFO] Сервис сохранен в БД: Rusakov_test_agent (2e161b76-4e66-416b-95be-366f7a893947, https://test.ai.alexrusakov.ru/)
+2025-09-04 09:31:11,818 [INFO] Сервис зарегистрирован: 'Rusakov_test_agent' ('2e161b76-4e66-416b-95be-366f7a893947')
+2025-09-04 09:31:11,838 [INFO] Сервис сохранен в БД: Rusakov_test_agent (2e161b76-4e66-416b-95be-366f7a893947, https://testagent1.ai.alexrusakov.ru/)
+2025-09-04 15:43:21,422 [INFO] Use pytorch device_name: cpu
+2025-09-04 15:43:21,422 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-04 15:43:30,155 [INFO] Таблица services готова
+2025-09-04 15:43:30,156 [INFO] Загружено 2 сервисов из БД
+2025-09-04 17:13:03,189 [INFO] Use pytorch device_name: cpu
+2025-09-04 17:13:03,190 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-04 17:13:11,391 [INFO] Таблица services готова
+2025-09-04 17:13:11,392 [INFO] Загружено 2 сервисов из БД
+2025-09-04 17:15:26,019 [INFO] Use pytorch device_name: cpu
+2025-09-04 17:15:26,020 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-04 17:15:35,417 [INFO] Таблица services готова
+2025-09-04 17:15:35,418 [INFO] Загружено 2 сервисов из БД
+2025-09-04 19:56:37,735 [INFO] Обработка запроса: кто ты?
+2025-09-04 19:56:38,784 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-04 19:58:13,116 [INFO] Обработка запроса: who are you
+2025-09-04 19:58:15,347 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-04 19:58:47,873 [INFO] Обработка запроса: who are you
+2025-09-04 19:58:50,250 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-04 20:09:08,313 [INFO] Обработка запроса: кто ты
+2025-09-04 20:09:09,467 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 08:23:41,593 [INFO] Обработка запроса: кто ты?
+2025-09-05 08:23:43,328 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:21:10,363 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:21:11,935 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:22:11,596 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:22:15,930 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:27:06,918 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:27:13,169 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:28:06,387 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:28:06,771 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:28:17,002 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:28:17,409 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:31:34,319 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:31:34,715 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:35:56,535 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:35:56,535 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-05 09:37:13,666 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:37:13,667 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-05 09:37:14,783 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-05 09:54:42,598 [INFO] Use pytorch device_name: cpu
+2025-09-05 09:54:42,599 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 09:54:51,653 [INFO] Таблица services готова
+2025-09-05 09:54:51,656 [INFO] Загружено 2 сервисов из БД
+2025-09-05 09:54:57,609 [INFO] Обработка запроса: привет, как дела?
+2025-09-05 09:55:00,931 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:55:14,211 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:55:14,211 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-05 09:55:14,492 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-05 09:55:58,578 [INFO] Обработка запроса: привет, как дела?
+2025-09-05 09:55:58,578 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-05 09:56:25,774 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:56:25,774 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-05 09:57:03,876 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:57:04,339 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:57:19,977 [INFO] Обработка запроса: кто ты?
+2025-09-05 09:57:20,508 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:57:38,389 [INFO] Обработка запроса: кто, ты?
+2025-09-05 09:57:38,915 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 09:58:11,413 [INFO] Обработка запроса: кто, ты?
+2025-09-05 09:58:11,413 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-05 09:58:37,216 [INFO] Обработка запроса: кто, ты?
+2025-09-05 09:58:37,218 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-05 09:58:37,506 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-05 11:11:52,809 [INFO] Use pytorch device_name: cpu
+2025-09-05 11:11:52,810 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 11:12:00,402 [INFO] Таблица services готова
+2025-09-05 11:12:00,404 [INFO] Загружено 2 сервисов из БД
+2025-09-05 11:12:21,746 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:12:21,910 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:12:38,204 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:12:38,446 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:12:58,545 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:13:03,035 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:14:50,056 [INFO] Use pytorch device_name: cpu
+2025-09-05 11:14:50,056 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 11:14:57,863 [INFO] Таблица services готова
+2025-09-05 11:14:57,864 [INFO] Загружено 2 сервисов из БД
+2025-09-05 11:15:04,916 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:15:05,017 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:15:30,434 [INFO] Use pytorch device_name: cpu
+2025-09-05 11:15:30,434 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 11:15:38,167 [INFO] Таблица services готова
+2025-09-05 11:15:38,167 [INFO] Загружено 2 сервисов из БД
+2025-09-05 11:28:54,069 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:28:54,188 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:42:05,666 [INFO] Use pytorch device_name: cpu
+2025-09-05 11:42:05,667 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 11:42:12,767 [INFO] Таблица services готова
+2025-09-05 11:42:12,768 [INFO] Загружено 2 сервисов из БД
+2025-09-05 11:42:21,776 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:42:23,008 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:42:36,298 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:42:37,563 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:48:33,796 [INFO] Use pytorch device_name: cpu
+2025-09-05 11:48:33,796 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 11:48:42,080 [INFO] Таблица services готова
+2025-09-05 11:48:42,081 [INFO] Загружено 2 сервисов из БД
+2025-09-05 11:49:04,412 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:49:07,307 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 11:56:46,973 [INFO] Обработка запроса: кто ты?
+2025-09-05 11:56:47,911 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:05:12,601 [INFO] Use pytorch device_name: cpu
+2025-09-05 12:05:12,602 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 12:05:20,805 [INFO] Таблица services готова
+2025-09-05 12:05:20,806 [INFO] Загружено 2 сервисов из БД
+2025-09-05 12:12:44,361 [INFO] Обработка запроса: кто ты?
+2025-09-05 12:12:46,575 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:25:58,379 [INFO] Обработка запроса: кто ты?
+2025-09-05 12:25:59,230 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:31:37,607 [INFO] Use pytorch device_name: cpu
+2025-09-05 12:31:37,607 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 12:31:44,807 [INFO] Таблица services готова
+2025-09-05 12:31:44,808 [INFO] Загружено 2 сервисов из БД
+2025-09-05 12:32:47,374 [INFO] Обработка запроса: кто ты?
+2025-09-05 12:32:49,133 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:35:43,424 [INFO] Обработка запроса: кто ты?
+2025-09-05 12:35:44,496 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:38:36,582 [INFO] Use pytorch device_name: cpu
+2025-09-05 12:38:36,583 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 12:38:48,152 [INFO] Таблица services готова
+2025-09-05 12:38:48,153 [INFO] Загружено 2 сервисов из БД
+2025-09-05 12:39:59,223 [INFO] Обработка запроса: кто ты?
+2025-09-05 12:40:00,994 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:40:07,350 [INFO] Обработка запроса: кто ты?
+2025-09-05 12:40:08,789 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 12:48:12,417 [INFO] Use pytorch device_name: cpu
+2025-09-05 12:48:12,417 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 12:48:22,219 [INFO] Таблица services готова
+2025-09-05 12:48:22,226 [INFO] Загружено 2 сервисов из БД
+2025-09-05 12:53:33,109 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:15:28,195 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:16:30,183 [INFO] Use pytorch device_name: cpu
+2025-09-05 13:16:30,183 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 13:16:38,178 [INFO] Таблица services готова
+2025-09-05 13:16:38,180 [INFO] Загружено 2 сервисов из БД
+2025-09-05 13:17:04,063 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:18:11,848 [INFO] Use pytorch device_name: cpu
+2025-09-05 13:18:11,848 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 13:18:20,158 [INFO] Таблица services готова
+2025-09-05 13:18:20,159 [INFO] Загружено 2 сервисов из БД
+2025-09-05 13:18:32,202 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:18:32,881 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:18:32,881 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:20:30,056 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:20:34,909 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:20:34,910 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:25:08,327 [INFO] Use pytorch device_name: cpu
+2025-09-05 13:25:08,327 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 13:27:06,472 [INFO] Таблица services готова
+2025-09-05 13:27:06,473 [INFO] Загружено 2 сервисов из БД
+2025-09-05 13:29:14,391 [INFO] Use pytorch device_name: cpu
+2025-09-05 13:29:14,392 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 13:29:22,669 [INFO] Таблица services готова
+2025-09-05 13:29:22,670 [INFO] Загружено 2 сервисов из БД
+2025-09-05 13:32:27,698 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:32:32,467 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:32:32,468 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:48:16,869 [INFO] Use pytorch device_name: cpu
+2025-09-05 13:48:16,869 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-05 13:48:24,972 [INFO] Таблица services готова
+2025-09-05 13:48:24,973 [INFO] Загружено 2 сервисов из БД
+2025-09-05 13:48:35,428 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:48:35,876 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:48:35,876 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:48:55,163 [INFO] Обработка запроса: кто ты?
+2025-09-05 13:48:59,711 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-05 13:48:59,712 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-06 13:48:05,582 [INFO] Обработка запроса: кто ты?
+2025-09-06 13:48:07,935 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-06 13:48:07,936 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 10:50:11,462 [INFO] Use pytorch device_name: cpu
+2025-09-08 10:50:11,462 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 10:50:20,025 [INFO] Таблица services готова
+2025-09-08 10:50:20,027 [INFO] Загружено 2 сервисов из БД
+2025-09-08 10:55:56,967 [INFO] Обработка запроса: кто ты?
+2025-09-08 10:56:01,523 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 10:56:01,524 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 10:57:05,957 [INFO] Обработка запроса: кто ты?
+2025-09-08 10:57:06,415 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 10:57:06,415 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 10:57:24,015 [INFO] Обработка запроса: кто ты?
+2025-09-08 10:57:24,016 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 10:57:24,392 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 10:57:43,167 [INFO] Обработка запроса: кто ты?
+2025-09-08 10:57:43,167 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 10:59:58,232 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 10:59:58,781 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 10:59:58,781 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:00:35,736 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:00:36,193 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:00:36,193 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:00:46,372 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:00:46,779 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:00:46,779 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:02:04,965 [INFO] Обработка запроса: запрос?
+2025-09-08 11:02:05,547 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:02:05,548 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:02:20,191 [INFO] Обработка запроса: запрос?
+2025-09-08 11:02:20,192 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 11:02:56,977 [INFO] Обработка запроса: запрос?
+2025-09-08 11:02:56,978 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 11:02:57,468 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:03:12,718 [INFO] Обработка запроса: запрос?
+2025-09-08 11:03:12,719 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 11:03:13,020 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:04:30,030 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:04:30,503 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:04:30,504 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:04:44,593 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:04:44,594 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:04:44,867 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 11:05:19,957 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:05:19,957 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:05:39,236 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:05:39,950 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:05:39,951 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:07:49,107 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:07:49,108 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:07:49,453 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 11:08:24,847 [INFO] Обработка запроса: что ты можешь?
+2025-09-08 11:08:24,848 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:10:34,538 [INFO] Обработка запроса: найди мне уид люка
+2025-09-08 11:10:34,538 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 11:10:34,539 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:12:24,456 [INFO] Обработка запроса: найди уид камеры?
+2025-09-08 11:12:24,456 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 11:12:24,457 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:12:59,533 [INFO] Обработка запроса: найди мне уид люка
+2025-09-08 11:12:59,534 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:12:59,799 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 11:38:50,313 [INFO] Обработка запроса: найди мне уид люка
+2025-09-08 11:38:50,313 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:39:25,973 [INFO] Обработка запроса: найди мне уид люка
+2025-09-08 11:39:25,974 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 11:39:25,974 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 11:39:43,100 [INFO] Обработка запроса: кто ты?
+2025-09-08 11:39:43,545 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:39:43,546 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 11:40:25,127 [INFO] Обработка запроса: найди уид?
+2025-09-08 11:40:25,128 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 11:40:25,128 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:13:13,271 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:13:13,271 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:13:20,422 [INFO] Таблица services готова
+2025-09-08 12:13:20,423 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:13:28,734 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:13:28,736 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:13:35,622 [INFO] Таблица services готова
+2025-09-08 12:13:35,623 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:13:43,179 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:13:43,180 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:13:50,841 [INFO] Таблица services готова
+2025-09-08 12:13:50,842 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:14:17,456 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:14:17,457 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:14:24,391 [INFO] Таблица services готова
+2025-09-08 12:14:24,392 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:14:50,735 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:14:50,735 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:14:58,802 [INFO] Таблица services готова
+2025-09-08 12:14:58,804 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:15:33,920 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:15:33,920 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:15:40,523 [INFO] Таблица services готова
+2025-09-08 12:15:40,524 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:15:47,625 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:15:47,625 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:15:55,007 [INFO] Таблица services готова
+2025-09-08 12:15:55,008 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:16:38,348 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:16:38,348 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:16:46,345 [INFO] Таблица services готова
+2025-09-08 12:16:46,345 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:19:24,126 [INFO] Обработка запроса: найди уид?
+2025-09-08 12:19:24,126 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 12:19:24,126 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:19:47,135 [INFO] Обработка запроса: кто ты?
+2025-09-08 12:19:48,292 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:19:48,292 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:20:09,472 [INFO] Обработка запроса: найди?
+2025-09-08 12:20:09,472 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 12:20:09,473 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:41:32,520 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:41:32,521 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:41:39,883 [INFO] Таблица services готова
+2025-09-08 12:41:39,884 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:42:06,101 [INFO] Обработка запроса: кто ты?
+2025-09-08 12:42:07,068 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:42:07,069 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:42:18,972 [INFO] Обработка запроса: найди?
+2025-09-08 12:42:18,973 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 12:42:18,973 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:52:09,140 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:52:09,141 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:52:16,825 [INFO] Таблица services готова
+2025-09-08 12:52:16,826 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:52:27,283 [INFO] Use pytorch device_name: cpu
+2025-09-08 12:52:27,283 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 12:52:33,683 [INFO] Таблица services готова
+2025-09-08 12:52:33,684 [INFO] Загружено 2 сервисов из БД
+2025-09-08 12:52:52,945 [INFO] Обработка запроса: кто ты?
+2025-09-08 12:52:53,502 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:52:53,502 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:53:07,206 [INFO] Обработка запроса: найди
+2025-09-08 12:53:07,206 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 12:53:07,207 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:55:35,995 [INFO] Обработка запроса: найди
+2025-09-08 12:55:35,996 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 12:55:35,997 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:56:16,135 [INFO] Обработка запроса: кто ты?
+2025-09-08 12:56:16,659 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:56:16,659 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:56:27,106 [INFO] Обработка запроса: кто ты?
+2025-09-08 12:56:27,538 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:56:27,539 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 12:57:11,370 [INFO] Обработка запроса: кто ты?
+2025-09-08 12:57:11,371 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 12:57:13,302 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 13:02:16,519 [INFO] Use pytorch device_name: cpu
+2025-09-08 13:02:16,519 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 13:02:23,736 [INFO] Таблица services готова
+2025-09-08 13:02:23,737 [INFO] Загружено 2 сервисов из БД
+2025-09-08 13:03:40,249 [INFO] Use pytorch device_name: cpu
+2025-09-08 13:03:40,250 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-08 13:03:47,243 [INFO] Таблица services готова
+2025-09-08 13:03:47,244 [INFO] Загружено 2 сервисов из БД
+2025-09-08 13:04:09,498 [INFO] Обработка запроса: кто ты?
+2025-09-08 13:04:09,498 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 13:04:10,384 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 13:04:46,939 [INFO] Обработка запроса: кто ты?
+2025-09-08 13:04:46,939 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 13:05:08,515 [INFO] Обработка запроса: кто ты?
+2025-09-08 13:05:09,098 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 13:05:09,098 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 13:05:22,235 [INFO] Обработка запроса: найди
+2025-09-08 13:05:22,235 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 13:05:22,235 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 13:08:06,993 [INFO] Обработка запроса: кто ты?
+2025-09-08 13:08:11,325 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 13:08:11,325 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:15:14,274 [INFO] Обработка запроса: привет, как дела?
+2025-09-08 14:15:14,794 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:15:14,794 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:32:23,778 [INFO] Обработка запроса: кто ты?
+2025-09-08 14:32:51,284 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:32:51,285 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:32:59,209 [INFO] Обработка запроса: кто ты?
+2025-09-08 14:33:00,333 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:33:00,333 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:34:31,903 [INFO] Обработка запроса: кто ты?
+2025-09-08 14:34:34,056 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:34:34,057 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:35:47,785 [INFO] Обработка запроса: привет, как дела?
+2025-09-08 14:35:48,380 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:35:48,380 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:37:04,651 [INFO] Обработка запроса: кто ты?
+2025-09-08 14:37:05,161 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:37:05,161 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:42:21,217 [INFO] Обработка запроса: найди уид паровоза
+2025-09-08 14:42:21,218 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 14:42:21,218 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 14:45:30,518 [INFO] Обработка запроса: найди уид паровоза
+2025-09-08 14:45:30,519 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 14:45:30,519 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 14:46:31,010 [INFO] Обработка запроса: найди уид паровоза
+2025-09-08 14:46:31,011 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 14:46:31,012 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 14:46:52,618 [INFO] Обработка запроса: что такое паровоз
+2025-09-08 14:46:53,236 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:46:53,236 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:49:10,388 [INFO] Обработка запроса: что такое паровоз
+2025-09-08 14:49:10,920 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:49:10,920 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:54:04,105 [INFO] Обработка запроса: что такое паровоз
+2025-09-08 14:54:04,106 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 14:55:25,478 [INFO] Обработка запроса: привет, как дела?
+2025-09-08 14:55:25,738 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:55:25,739 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 14:59:08,620 [INFO] Обработка запроса: найди уид пенопласта
+2025-09-08 14:59:08,621 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 14:59:08,621 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 15:04:19,081 [INFO] Обработка запроса: кто ты?
+2025-09-08 15:04:26,718 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:04:26,719 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:24:10,042 [INFO] Обработка запроса: найди уид пенопласта
+2025-09-08 15:24:10,043 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 15:24:10,417 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 15:24:18,260 [INFO] Обработка запроса: найди уид пенопласта
+2025-09-08 15:24:18,261 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 15:24:46,396 [INFO] Обработка запроса: найди уид пенопласта
+2025-09-08 15:24:46,397 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 15:24:46,397 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 15:25:08,799 [INFO] Обработка запроса: что такое пенопласт
+2025-09-08 15:25:08,800 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 15:25:09,097 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 15:48:35,707 [INFO] Обработка запроса: как дела
+2025-09-08 15:48:36,233 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:48:36,234 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:49:27,642 [INFO] Обработка запроса: кто ты?
+2025-09-08 15:49:28,144 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:49:28,145 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:49:41,834 [INFO] Обработка запроса: как дела
+2025-09-08 15:49:42,263 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:49:42,263 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:52:39,168 [INFO] Обработка запроса: как дела
+2025-09-08 15:52:40,579 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:52:40,579 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:55:10,501 [INFO] Обработка запроса: кто ты?
+2025-09-08 15:55:11,030 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:55:11,031 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 15:57:11,461 [INFO] Сервис зарегистрирован: 'Rusakov_xlsx_agent' ('9ac2f2bb-7a29-4c12-b13a-cee1460af723')
+2025-09-08 15:57:11,489 [INFO] Сервис сохранен в БД: Rusakov_xlsx_agent (9ac2f2bb-7a29-4c12-b13a-cee1460af723, https://search.ai.alexrusakov.ru)
+2025-09-08 17:02:11,358 [INFO] Обработка запроса: как дела
+2025-09-08 17:02:11,359 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 17:02:12,438 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-08 17:03:33,745 [INFO] Обработка запроса: как дела
+2025-09-08 17:03:39,708 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 17:03:39,709 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 17:04:11,115 [INFO] Обработка запроса: найди уид пенопласта
+2025-09-08 17:04:11,116 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-08 17:04:11,116 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-08 17:05:29,199 [INFO] Обработка запроса: привет
+2025-09-08 17:05:29,747 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 17:05:29,748 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 17:27:25,102 [INFO] Обработка запроса: кто ты?
+2025-09-08 17:27:26,168 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-08 17:27:26,169 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:05:47,859 [INFO] Обработка запроса: привет
+2025-09-09 08:05:52,364 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:05:52,365 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:06:53,364 [INFO] Обработка запроса: что такое паравоз
+2025-09-09 08:06:53,872 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:06:53,873 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:07:58,531 [INFO] Обработка запроса: что такое паровоз
+2025-09-09 08:07:59,055 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:07:59,056 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:09:11,201 [INFO] Обработка запроса: привет
+2025-09-09 08:09:11,828 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:09:11,829 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:09:34,958 [INFO] Обработка запроса: найди уид пылесоса
+2025-09-09 08:09:34,959 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 08:09:34,960 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 08:11:59,557 [INFO] Обработка запроса: привет
+2025-09-09 08:12:00,175 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:12:00,176 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:12:19,252 [INFO] Обработка запроса: что такое паровоз
+2025-09-09 08:12:19,767 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:12:19,767 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:14:00,410 [INFO] Обработка запроса: что такое паравоз
+2025-09-09 08:14:00,938 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:14:00,938 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 08:15:11,399 [INFO] Обработка запроса: найди уид поезда
+2025-09-09 08:15:11,400 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 08:15:11,401 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 08:15:24,081 [INFO] Обработка запроса: протестируй Васю
+2025-09-09 08:15:24,082 [INFO] Ключевое слово 'тест' → 2e161b76-4e66-416b-95be-366f7a893947
+2025-09-09 08:15:24,082 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 08:15:44,916 [INFO] Обработка запроса: сделай копию
+2025-09-09 08:15:44,917 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 08:15:45,271 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 09:48:26,772 [INFO] Обработка запроса: что такое паровоз
+2025-09-09 09:49:07,236 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 09:49:07,236 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 09:51:07,279 [INFO] Обработка запроса: найди уид паровоза
+2025-09-09 09:51:07,280 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:51:07,280 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:51:54,374 [INFO] Обработка запроса: найди уид паравоза
+2025-09-09 09:51:54,375 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:51:54,375 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:53:45,692 [INFO] Обработка запроса: найди уид паравоза
+2025-09-09 09:53:45,693 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:53:45,693 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:54:25,456 [INFO] Обработка запроса: гайди уид самоката
+2025-09-09 09:54:25,456 [INFO] Ключевое слово 'уид' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:54:25,456 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:54:47,424 [INFO] Обработка запроса: протестируй Васю
+2025-09-09 09:54:47,424 [INFO] Ключевое слово 'тест' → 2e161b76-4e66-416b-95be-366f7a893947
+2025-09-09 09:54:47,424 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 09:54:59,710 [INFO] Обработка запроса: чтоттакое паравоз
+2025-09-09 09:55:04,362 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 09:55:04,363 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 09:55:44,889 [INFO] Обработка запроса: найди уид пети
+2025-09-09 09:55:44,890 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:55:44,891 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:55:52,163 [INFO] Обработка запроса: привет как дела
+2025-09-09 09:55:52,805 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 09:55:52,806 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 09:56:13,608 [INFO] Обработка запроса: найди Васю
+2025-09-09 09:56:13,609 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:56:13,609 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:56:24,088 [INFO] Обработка запроса: найди Васю
+2025-09-09 09:56:24,089 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:56:24,365 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 09:56:42,304 [INFO] Обработка запроса: найди меня
+2025-09-09 09:56:42,305 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:56:53,118 [INFO] Обработка запроса: найди меня
+2025-09-09 09:56:53,119 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 09:57:00,738 [INFO] Обработка запроса: найди меня
+2025-09-09 09:57:00,739 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 09:57:00,739 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 09:57:19,309 [INFO] Обработка запроса: протестируй меня
+2025-09-09 09:57:19,309 [INFO] Ключевое слово 'тест' → 2e161b76-4e66-416b-95be-366f7a893947
+2025-09-09 09:57:19,310 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 10:09:45,725 [INFO] Обработка запроса: привет
+2025-09-09 10:09:46,719 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 10:09:46,720 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 10:10:25,917 [INFO] Обработка запроса: найди уид самоката
+2025-09-09 10:10:25,918 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 10:10:25,919 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 10:10:38,507 [INFO] Обработка запроса: протестируй Петю
+2025-09-09 10:10:38,508 [INFO] Ключевое слово 'тест' → 2e161b76-4e66-416b-95be-366f7a893947
+2025-09-09 10:10:38,508 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 10:13:40,236 [INFO] Обработка запроса: кто ты?
+2025-09-09 10:13:40,879 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 10:13:40,880 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 10:16:12,709 [INFO] Обработка запроса: привет
+2025-09-09 10:16:13,040 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 10:16:13,042 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 10:16:48,754 [INFO] Обработка запроса: найди уид самоката
+2025-09-09 10:16:48,755 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 10:16:48,756 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 10:18:01,860 [INFO] Обработка запроса: протестируй Васю
+2025-09-09 10:18:01,861 [INFO] Ключевое слово 'тест' → 2e161b76-4e66-416b-95be-366f7a893947
+2025-09-09 10:18:01,861 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 10:19:00,108 [INFO] Обработка запроса: протестируй Васю
+2025-09-09 10:19:00,109 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 10:19:00,483 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 16:27:55,693 [INFO] Обработка запроса: что такое паровоз
+2025-09-09 16:27:57,052 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 16:27:57,052 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 16:28:40,702 [INFO] Обработка запроса: найди уид велосипеда
+2025-09-09 16:28:40,703 [INFO] Ключевое слово 'найди' → 9ac2f2bb-7a29-4c12-b13a-cee1460af723
+2025-09-09 16:28:40,703 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 16:28:57,630 [INFO] Обработка запроса: найди уид велосипеда
+2025-09-09 16:28:57,630 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 16:28:58,461 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 16:29:08,397 [INFO] Обработка запроса: найди уид велосипеда
+2025-09-09 16:29:08,398 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 16:29:16,183 [INFO] Обработка запроса: найди уид велосипеда
+2025-09-09 16:29:16,183 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 16:31:18,212 [INFO] Обработка запроса: что такое паровоз
+2025-09-09 16:31:18,212 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 16:31:19,702 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 16:32:58,491 [INFO] Сервис зарегистрирован: 'Rusakov_test_agent' ('2e161b76-4e66-416b-95be-366f7a893947')
+2025-09-09 16:32:58,510 [INFO] Сервис сохранен в БД: Rusakov_test_agent (2e161b76-4e66-416b-95be-366f7a893947, https://testagent1.ai.alexrusakov.ru/)
+2025-09-09 16:33:09,052 [INFO] Обработка запроса: что такое паровоз
+2025-09-09 16:33:09,053 [INFO] Отправка HTTP-запроса на https://testagent1.ai.alexrusakov.ru/makejob
+2025-09-09 16:33:10,964 [INFO] Отправка HTTP-запроса на https://search.ai.alexrusakov.ru/makejob
+2025-09-09 16:56:40,298 [INFO] Обработка запроса: кто ты?
+2025-09-09 16:56:45,013 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-09 16:56:45,013 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-10 17:02:21,247 [INFO] Use pytorch device_name: cpu
+2025-09-10 17:02:21,247 [INFO] Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-10 17:02:28,386 [INFO] Таблица services готова
+2025-09-10 17:02:28,387 [INFO] Загружено 2 сервисов из БД
+2025-09-10 17:14:39,960 [INFO] Обработка запроса: кто ты?
+2025-09-10 17:15:37,325 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-10 17:15:37,325 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-10 17:17:20,984 [INFO] Обработка запроса: кто ты?
+2025-09-10 17:17:28,577 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-10 17:17:28,578 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-11 10:49:10,494 [INFO] Обработка запроса: что ты можешь?
+2025-09-11 10:49:18,155 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-11 10:49:18,155 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-11 11:24:16,096 [INFO] Обработка запроса: что ты можешь?
+2025-09-11 11:24:54,314 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-11 11:24:54,314 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую
+2025-09-11 11:27:41,007 [INFO] Обработка запроса: что ты можешь?
+2025-09-11 11:27:48,239 [WARNING] Сервис не выбран → LLM отвечает напрямую
+2025-09-11 11:27:48,240 [INFO] [Оркестратор] Сервис не выбран → LLM отвечает напрямую

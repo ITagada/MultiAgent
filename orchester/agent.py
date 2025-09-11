@@ -113,7 +113,7 @@ class Orchestrator:
                     )
                     self.db.insert_or_update(uuid, remote_name, remote_endpoint)
 
-                self.services[remote_name] = {
+                self.services[uuid] = {
                     'uuid': uuid,
                     'name': remote_name,
                     'description': remote_data.get('description', ''),
@@ -126,7 +126,7 @@ class Orchestrator:
                 logger.error(f"Ошибка загрузки сервиса {svc['url']}: {e}")
 
     def register_service(self, service: ServiceRegistration):
-        self.services[service.name] = {
+        self.services[service.uuid] = {
             'uuid': service.uuid,
             'name': service.name,
             'description': service.description,
@@ -162,33 +162,85 @@ class Orchestrator:
             return {'service': service_info['name'], 'response': res}
         return {'service': service_info['name'], 'error': 'Локальный сервис недоступен'}
 
-    def handle_request(self, query: str):
+    def _extract_response(self, raw_response):
+        if isinstance(raw_response, dict):
+            if "response" in raw_response:
+                return raw_response["response"]
+            return json.dumps(raw_response, ensure_ascii=False)
+        return raw_response
+
+    def _format_response(self, service_name: Optional[str], res: str, uuid: Optional[str] = None):
+        item = {
+            "service": service_name,
+            "res": self._extract_response(res),
+        }
+        if uuid:
+            item["serviceUUID"] = uuid
+        return {"response": [item]}
+
+    def handle_request(self, query: str, services_uuids: Optional[list] = None):
         logger.info(f"Обработка запроса: {query}")
+
+        # ⚡ выбор сервисов по uuid
+        if services_uuids:
+            chosen_services = [self.services[s] for s in services_uuids if s in self.services]
+            if not chosen_services:
+                return self._format_response(None, f"Указанные сервисы не найдены. Доступные: {list(self.services.keys())}")
+
+            if len(chosen_services) == 1:
+                svc = chosen_services[0]
+                if svc['endpoint'].startswith('http'):
+                    raw = self._call_http_service(svc, query)
+                else:
+                    raw = self._call_local_service(svc, query)
+                return self._format_response(svc['name'], raw.get("response") or raw.get("error"), svc["uuid"])
+
+            results = []
+            for svc in chosen_services:
+                if svc['endpoint'].startswith('http'):
+                    raw = self._call_http_service(svc, query)
+                else:
+                    raw = self._call_local_service(svc, query)
+                results.append({
+                    "service": svc["name"],
+                    "serviceUUID": svc["uuid"],
+                    "res": self._extract_response(raw.get("response") or raw.get("error"))
+                })
+            return {"response": results}
+
+        # 🔎 поиск по ключевым словам
         q_lower = query.lower()
         for svc in self.services.values():
             kws = svc.get('request_format', {}).get('keywords', [])
             if kws:
                 for kw in kws:
                     if kw.lower() in q_lower:
-                        logger.info(f"Ключевое слово '{kw}' → {svc['name']}")
+                        logger.info(f"Ключевое слово '{kw}' → {svc['uuid']}")
                         if svc['endpoint'].startswith('http'):
-                            return self._call_http_service(svc, query)
+                            raw = self._call_http_service(svc, query)
                         else:
-                            return self._call_local_service(svc, query)
+                            raw = self._call_local_service(svc, query)
+                        return self._format_response(svc["name"], raw.get("response") or raw.get("error"), svc["uuid"])
 
-        chosen = self.llm.choose_service(self.services, query)
-        if chosen:
-            svc = self.services.get(chosen)
+        # 🧠 выбор через LLM (с защитой от пустого списка сервисов)
+        chosen_uuid = None
+        if self.services:
+            chosen_uuid = self.llm.choose_service(self.services, query)
+
+        if chosen_uuid:
+            svc = self.services.get(chosen_uuid)
             if svc:
-                print(f"[Оркестратор] LLM выбрал сервис: {chosen}")
+                logger.info(f"[Оркестратор] LLM выбрал сервис: {chosen_uuid}")
                 if svc['endpoint'].startswith('http'):
-                    return self._call_http_service(svc, query)
+                    raw = self._call_http_service(svc, query)
                 else:
-                    return self._call_local_service(svc, query)
+                    raw = self._call_local_service(svc, query)
+                return self._format_response(svc["name"], raw.get("response") or raw.get("error"), svc["uuid"])
 
+        # 📝 fallback → LLM напрямую
         logger.warning("Сервис не выбран → LLM отвечает напрямую")
-        print("[Оркестратор] Сервис не выбран → LLM отвечает напрямую")
-        return {"service": None, "response": self.llm.run(query)}
+        logger.info(f"[Оркестратор] Сервис не выбран → LLM отвечает напрямую")
+        return self._format_response(None, self.llm.run(query))
 
 try:
     LOCAL_XLSX = r"C:\Users\polovnikov.m\PycharmProjects\multiagent\xslx_db\Выгрузка справочника эталонной номенклатуры 2 XLSX.xlsx"
